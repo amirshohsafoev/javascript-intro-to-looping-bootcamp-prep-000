@@ -28,5 +28,5 @@ do {
   array.slice(0)
 } 
 while (array.length > 0 && maybeTrue());
-return maybeTrue();
+return False;
 }
